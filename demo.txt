@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 # welcome
 
 print(20, 50)
+=======
+first line
+>>>>>>> 8358b2b (initial commit)
